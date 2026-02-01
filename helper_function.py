@@ -1,5 +1,6 @@
 """
-A series of helper functions used throughout the course.
+A series of helper functions used throughout the course. 
+very help full and time save 
 
 If a function gets defined once and could be used over and over, it'll go in here.
 """
